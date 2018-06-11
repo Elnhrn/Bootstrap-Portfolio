@@ -22,7 +22,7 @@ body {
 body {
     font-size: 16px;
     line-height: 1.75;
-    padding-top: 80px;
+    padding-top: 5em;
 }
 
 .row-portfolio {
@@ -42,10 +42,4 @@ form {
 
 .card {
     margin-bottom: 10px;
-}
-
-@media screen and (max-width: 514px) {
-    body {
-        padding-top: 120px;
-    }
 }
